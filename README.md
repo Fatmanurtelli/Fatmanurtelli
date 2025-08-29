@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1584" height="396" alt="Fatmanur Github Bunner (4)" src="https://github.com/user-attachments/assets/9be5c586-3cde-469f-a2dd-c9286f4aa009" />
+  <img width="1584" height="396" alt="Fatmanur Github Bunner (4)" src="https://github.com/user-attachments/assets/9be5c586-3cde-469f-a2dd-c9286f4aa009"/>
   <h1>Merhaba, Ben Fatmanur Telli</h1>
   <p>
     <em>Yarı iletken devreler ve elektronik tasarıma adanmış bir girişimciyim.<br />
