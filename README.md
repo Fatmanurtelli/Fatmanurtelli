@@ -104,3 +104,8 @@ Ben Fatmanur Telli. **İstanbul Üniversitesi - Cerrahpaşa Elektronik Haberleş
 </p>
 
 ---
+
+<div align="center">
+  <p><img src="https://komarev.com/ghpvc/?username=iamfurkann&label=Profil%20Ziyaretçi%20Sayısı&color=0e75b6&style=flat-square" alt="Profil Görüntülenme Sayısı" /></p>
+  <p><em>GitHub profilime zaman ayırdığınız için teşekkürler.</em></p>
+</div>
